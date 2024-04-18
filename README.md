@@ -10,4 +10,6 @@ Send notification by socket
 - Java client tool, checkout  class **StompClientExample**
 
 ## Demo
-Start socket server first, then start client
+- Start socket server first, then start clients. 
+- For each client, userId is randomly generated from 1 to 1000.
+
